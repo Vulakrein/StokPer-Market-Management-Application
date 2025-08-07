@@ -33,10 +33,15 @@ Database connectivity is handled via the **MySQL Java Connector (JDBC Driver)**.
 
 git clone https://github.com/Vulakrein/StokPer-Market-Management-Application.git
 
-2. Open the project in **NetBeans IDE**
+2. Open the project in **NetBeans IDE**.
 3. Make sure **XAMPP** is running and **MySQL** service is active.
 4. Import the included SQL file into **phpMyAdmin**.
-5. Run the application from NetBeans.
+5. **Ensure the MySQL Connector/J (JDBC driver) is added to your project libraries.**  
+- You can download the latest MySQL Connector/J from:  
+  [https://dev.mysql.com/downloads/connector/j/](https://dev.mysql.com/downloads/connector/j/)  
+- After downloading, add the `.jar` file to your NetBeans project libraries:  
+  Right-click the project → Properties → Libraries → Add JAR/Folder → Select the downloaded `.jar`.
+6. Run the application from NetBeans.
 
 ---
 
