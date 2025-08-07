@@ -9,7 +9,7 @@ Database connectivity is handled via the **MySQL Java Connector (JDBC Driver)**.
 ## ⚙️ Key Features
 
 - User management (add/delete/update users)  
-- Stock tracking and updates (add/delete/update products) 
+- Stock tracking and updates (add/update products) 
 - Sales operations and transaction handling  
 - Product entry/exit monitoring  
 - Clean and user-friendly interface  
