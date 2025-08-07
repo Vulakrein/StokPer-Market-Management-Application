@@ -29,6 +29,10 @@ Database connectivity is handled via the **MySQL Java Connector (JDBC Driver)**.
 
 ## 🚀 How to Run
 
+1. Clone this repository:
+
+git clone https://github.com/Vulakrein/StokPer-Market-Management-Application.git
+
 2. Open the project in **NetBeans IDE**
 3. Make sure **XAMPP** is running and **MySQL** service is active.
 4. Import the included SQL file into **phpMyAdmin**.
@@ -40,5 +44,6 @@ Database connectivity is handled via the **MySQL Java Connector (JDBC Driver)**.
 
 - This is a student-level project developed for learning purposes.  
 - The system is designed to demonstrate core skills in **OOP**, **GUI development**, and **database integration**.
+- This project’s code and comments are written in Turkish.
 
 ---
